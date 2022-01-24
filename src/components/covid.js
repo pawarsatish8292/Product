@@ -18,7 +18,7 @@ const Covid = () => {
         getCovidData()
     })
     return (
-        <>
+        <> <h1> first changes</h1>
             <h1> live Data</h1>
             <h2>Covid 19 Coronavirus tracker</h2>
             <h2>Total recovered {data.recovered}</h2>
